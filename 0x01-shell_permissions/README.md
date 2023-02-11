@@ -1,1 +1,1 @@
-This directory contains solutions to shell permissions
+This repository contains solutions to shell permission
